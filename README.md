@@ -51,7 +51,3 @@ Body:
 { "features": [ ... ] }
 ```
 
-## 💼 Resume Highlight
-
-Built and deployed an end-to-end ML system for cyber threat detection with a REST API for real-time inference.
-
