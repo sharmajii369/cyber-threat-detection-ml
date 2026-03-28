@@ -1,1 +1,1 @@
-# cyber-threat-detection-ml
+# Cyber-Threat-Detection-ML
