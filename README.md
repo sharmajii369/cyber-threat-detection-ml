@@ -15,7 +15,7 @@ End-to-end ML system to detect cyber intrusions from network traffic using the N
 
 ## 📊 Dataset
 
-NSL-KDD (Kaggle) — download separately (not included in repo).
+NSL-KDD (Kaggle) — download separately
 
 ## ⚙️ Pipeline
 
